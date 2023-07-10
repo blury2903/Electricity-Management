@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765296566604",
+    "firebase_url": "https://fluttertest-28d13-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fluttertest-28d13",
+    "storage_bucket": "fluttertest-28d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765296566604:android:747a56e3f2a3b08221afe9",
+        "android_client_info": {
+          "package_name": "com.example.energy_meter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765296566604-7r471984lobd7k262umk1f921fqdfd31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.energy_meter_app",
+            "certificate_hash": "36eb2e1ad190ad3a435b25549f7b6f6157d16bce"
+          }
+        },
+        {
+          "client_id": "765296566604-80uqd1rtts88ibng5907q354pf3p4e33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUuHWyF_LW-01LPW5ABgTzqrqStjn_jMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765296566604-80uqd1rtts88ibng5907q354pf3p4e33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
